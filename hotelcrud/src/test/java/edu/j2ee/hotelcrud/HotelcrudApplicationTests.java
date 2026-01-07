@@ -1,0 +1,13 @@
+package edu.j2ee.hotelcrud;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class HotelcrudApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

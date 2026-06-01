@@ -232,13 +232,6 @@ Each option leads to a sub-menu with Add / Update / View / Delete operations.
 
 ---
 
-## Author
-
-**Arpit Kharche**
-[GitHub](https://github.com/ArpitKharche123)
-
----
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).

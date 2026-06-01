@@ -214,8 +214,3 @@ Menu      ├── Manage Profile
 - Password field is currently stored as plain text in the `User` entity — consider hashing with BCrypt for production use.
 
 ---
-
-## 👨‍💻 Author
-
-**Arpit Kharche**  
-[GitHub Profile](https://github.com/ArpitKharche123)

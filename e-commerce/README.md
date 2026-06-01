@@ -122,8 +122,8 @@ The application connects to a **PostgreSQL** database. Update the credentials in
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/ArpitKharche123/Basic-Projects.git
-cd Basic-Projects/e-commerce
+git clone https://github.com/equilisahil/Java-Projects.git
+cd Java-Projects/e-commerce
 
 # 2. Create the database
 psql -U postgres -c "CREATE DATABASE eComDb;"

@@ -105,8 +105,8 @@ The `Customer ↔ Loan` many-to-many relationship is handled by a Hibernate-gene
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ArpitKharche123/Basic-Projects.git
-cd Basic-Projects/bank-management-system
+git clone https://github.com/equilisahil/Java-Projects.git
+cd Java-Projects/bank-management-system
 ```
 
 ### 2. Create the PostgreSQL database
@@ -173,8 +173,8 @@ Each option leads to a sub-menu with Add / Update / View / Delete operations.
 ```
 3 → Manage Customers
 1 → Add new Customer
-  Enter name:    Arpit Kharche
-  Enter phone:   9876543210
+  Enter name:    Sahil Marbate
+  Enter phone:   9333388892
   Enter address: Pune, Maharashtra
   Enter account type: Savings
   Enter bank id: 1
